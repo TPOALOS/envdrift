@@ -60,3 +60,7 @@ python3 -m unittest -v
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [pwlint](https://github.com/TPOALOS/pwlint) · [exifstrip](https://github.com/TPOALOS/exifstrip) · [secretscan](https://github.com/TPOALOS/secretscan) · [all 51 tools](https://tpoalos.github.io)
